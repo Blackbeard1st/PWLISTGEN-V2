@@ -90,9 +90,10 @@ Copy to file => /Users/bampow/new.txt...
 closed
 _____________________________________________________________________________________________
 
-Output in txt file look like this:
+Output in txt file look like this without gabs:
 
 4752486881086802
+
 7771610246608772
 
 5180110312102224
