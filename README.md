@@ -9,13 +9,14 @@ g++ bbpassgen.cpp -o bbpassgen
 
 ./bbpassgen
 
-____________________________________________ This is the Programm _________________________________________________
+ ***This is the Programm*** 
+_____________________________________________________________________________________________
                                                                                                  
 How long do you want your character length? 
 (recommended 16 for WPA2) 
 
  => 16
- 
+_____________________________________________________________________________________________
 
 Choose your size for 16 length, if you picked 8 length it's half the size!
 
@@ -36,7 +37,7 @@ Choose your size for 16 length, if you picked 8 length it's half the size!
 8: 600 Million = 10.2 GB
 
 Choose from 1-8: => 1
-
+_____________________________________________________________________________________________
 
 Generate 1000000 lines for...
 
@@ -63,12 +64,13 @@ Choose your Characterset:
 10: 0123456789 abcdefghijklmnopqrstuvwxyz ABCDEFGHIJKLMNOPQRSTUVWXYZ !§$%&/()=?@+-*<>-_
 
 Choose from 1-10: => 1
-
+_____________________________________________________________________________________________
 
 Choose a path to create the txt file: 
 example => /root/file.txt or /Users/name/file.txt
 
  => /Users/bampow/new.txt
+_____________________________________________________________________________________________
 
 Generating...
 10%...
@@ -86,7 +88,7 @@ Generating...
 Copy to file => /Users/bampow/new.txt...
 ...done ツ 
 closed
-
+_____________________________________________________________________________________________
 
 Output in txt file look like this:
 
