@@ -15,6 +15,7 @@ How long do you want your character length?
 (recommended 16 for WPA2) 
 
  => 16
+ 
 
 Choose your size for 16 length, if you picked 8 length it's half the size!
 
@@ -60,7 +61,6 @@ Choose your Characterset:
 9:  0123456789 abcdefghijklmnopqrstuvwxyz ABCDEFGHIJKLMNOPQRSTUVWXYZ
 
 10: 0123456789 abcdefghijklmnopqrstuvwxyz ABCDEFGHIJKLMNOPQRSTUVWXYZ !§$%&/()=?@+-*<>-_
-
 
 Choose from 1-10: => 1
 
