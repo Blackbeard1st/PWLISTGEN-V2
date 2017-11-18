@@ -36,6 +36,7 @@ Choose your size for 16 length, if you picked 8 length it's half the size!
 
 Choose from 1-8: => 1
 
+
 Generate 1000000 lines for...
 
 Choose your Characterset: 
@@ -63,6 +64,7 @@ Choose your Characterset:
 
 Choose from 1-10: => 1
 
+
 Choose a path to create the txt file: 
 example => /root/file.txt or /Users/name/file.txt
 
@@ -80,9 +82,11 @@ Generating...
 90%...
 100%
 
+
 Copy to file => /Users/bampow/new.txt...
 ...done ツ 
 closed
+
 
 Output in txt file look like this:
 
