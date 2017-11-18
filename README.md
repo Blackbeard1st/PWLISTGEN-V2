@@ -6,6 +6,7 @@ Get ready, make a git clone or Download the zip
 Now write in Terminal Linux/Mac:
 
 g++ bbpassgen.cpp -o bbpassgen
+
 ./bbpassgen
 
 ____________________________________________ This is the Programm _________________________________________________
