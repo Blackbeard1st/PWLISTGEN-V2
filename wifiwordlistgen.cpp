@@ -1,5 +1,5 @@
 // Author Blackbeard1st //
-// bbpassgen V1 (Blackbeard's random password generator) //
+// wifiwordlistgen (Blackbeard's random password generator) //
 // Choose Your length 1 - inf. ( choose 8 or 16 :D for WPA/WPA2)
 /* Choose how many lines you want for example a character length of 16 with
     1 Million lines = 17 MB
