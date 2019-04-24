@@ -1,13 +1,13 @@
-# bbpassgen
+# wifiwordlistgen
 Blackbeard's random password generator WPA/WPA2
 
 Get ready, make a git clone or Download the zip
 
 Now write in Terminal Linux/Mac:
 
-g++ bbpassgen.cpp -o bbpassgen
+g++ wifiwordlistgen.cpp -o wifiwordlistgen
 
-./bbpassgen
+./wifiwordlistgen
 
  ***This is the Programm*** 
 _____________________________________________________________________________________________
