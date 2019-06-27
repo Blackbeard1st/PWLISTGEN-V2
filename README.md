@@ -7,7 +7,7 @@ Get ready, make a git clone or Download the zip
  ***That's the programm in action*** 
  
 BlackbeardsiMac:PWLISTGEN blackbeard$ c++ PWLISTGEN.cpp -o PWLISTGEN
-BlackbeardsiMac:PWLISTGEN blackbeard$ ./PWLISTGEN 
+BlackbeardsiMac:PWLISTGEN blackbeard$ ./PWLISTGEN
 How long do you want your character length?
 16
 
@@ -28,13 +28,13 @@ Generate 50000000 lines for...
 
 Choose your Characterset 1-10: 
 
-1: 0123456789 
-2: abcdefghijklmnopqrstuvwxyz 
-3: ABCDEFGHIJKLMNOPQRSTUVWXYZ 
-4: 0123456789abcdefghijklmnopqrstuvwxyz 
-5: 0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ 
-6: abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ 
-7: 0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ 
+1: 0123456789
+2: abcdefghijklmnopqrstuvwxyz
+3: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+4: 0123456789abcdefghijklmnopqrstuvwxyz
+5: 0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ
+6: abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ
+7: 0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ
 8: 0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ!$%&=?@+*-_
 => 5
 10%...
@@ -49,6 +49,6 @@ Choose your Characterset 1-10:
 100%...
 
 Write into txt file...
-done ツ 
+done ツ
 .
 
