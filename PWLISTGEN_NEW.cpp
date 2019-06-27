@@ -1,12 +1,23 @@
 // Author Blackbeard1st //
-// Blackrandpassgen V1 (Blackbeards random password generator) //
-// Choose Your length 0 - inf. ( choose 8 or 16 :D for WPA/WPA2)
-/* Choose how many lines you want for example a character length of 16 with
-    1 Million lines = 17 MB
-    10 Million = 170 MB
-    100 Million = 1.7 GB
-    1 Billion = 17 GB
-*/
+// PWLISTGEN V2 Blackbeards Password List Generator for Pentesting/PW-cracking do what you want :)
+// Choose your length 0 - inf. I recommend 8-16 should be enough.
+// Characterset has all what you need in it.
+
+//Update 27.06.2019:
+//More options in filesize. (now -> 20MB,200MB,1GB,2GB,5GB,10GB,20GB) 
+//characters are now more real.
+//percent prozess will show now more accurate.
+//the list will be generated in the folder where the program is started from
+
+//should now work on Windows,Mac and Linux :)
+
+//how to use?
+//Terminal command:
+//.  c++ PWLISTGEN_NEW.cpp -o PWLISTGEN
+//.  ./PWLISTGEN
+
+//have fun!
+
 
 #include <iostream>
 #include <fstream>
