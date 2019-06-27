@@ -50,5 +50,5 @@ Choose your Characterset 1-10:
 
 Write into txt file...
 done ツ 
-
+.
 
